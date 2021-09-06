@@ -1,1 +1,7 @@
-/* styles go here */
+
+input, textarea, select {
+  margin: 10px 0 0 0;
+}
+.fieldset, button {
+  margin: 20px 0;
+}
