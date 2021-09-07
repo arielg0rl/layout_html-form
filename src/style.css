@@ -2,10 +2,10 @@
   margin-bottom: 20px;
 }
 
-button {
+.button {
   margin-top: 20px;
 }
 
-div:not(:last-child) {
+.form-field:not(:last-child) {
   margin-bottom: 10px;
 }
