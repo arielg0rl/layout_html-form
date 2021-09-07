@@ -1,7 +1,11 @@
-
-input, textarea, select {
-  margin: 10px 0 0 0;
+.fieldset {
+  margin-bottom: 20px;
 }
-.fieldset, button {
-  margin: 20px 0;
+
+button {
+  margin-top: 20px;
+}
+
+div:not(:last-child) {
+  margin-bottom: 10px;
 }
